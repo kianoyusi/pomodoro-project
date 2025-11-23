@@ -12,3 +12,6 @@ Project coding pertama saya! Ini adalah aplikasi timer untuk teknik produktivita
 
 ## 📅 Status
 Project selesai dibuat untuk latihan logika dasar JavaScript.
+
+## 🔗Link Visit Site
+https://kianoyusi.github.io/pomodoro-project/
