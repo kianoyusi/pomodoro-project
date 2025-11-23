@@ -3,7 +3,7 @@
 Project coding pertama saya! Ini adalah aplikasi timer untuk teknik produktivitas Pomodoro (25 menit kerja, 5 menit istirahat).
 
 ## 📸 Bukti Project
-![Tampilan Aplikasi](Screenshot 2025-11-23 072333.png)
+![Bukti Project](Screenshot%202025-11-23%20072333.png)
 *(Pastikan nama file di dalam kurung ini SAMA PERSIS dengan nama file screenshot yang kamu upload tadi)*
 
 ## 🛠️ Teknologi
